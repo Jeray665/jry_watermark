@@ -17,3 +17,6 @@ ES
 Es una script la cual permite poder poner el logo de tu server a la derecha arriba de la pantalla de una manera facil y optimizada 
 
 Para configurarlo tendras que ir a style.css y poner la URL de la foto (discord)
+
+
+Discord: https://discord.gg/Dd6R7FdmSZ
